@@ -1,0 +1,12 @@
+1 zero A 4 2
+2 add C 3
+3 sub A 1
+4 zero C 13 5
+5 zero B 9 6
+6 add A 7
+7 add D 8
+8 sub B 5
+9 zero D 12 10
+10 add B 11
+11 sub D 9
+12 sub C 4
