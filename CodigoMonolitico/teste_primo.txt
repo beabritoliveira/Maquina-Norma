@@ -1,0 +1,37 @@
+1 zero A 10 2
+2 sub A 3
+3 add B 4
+4 add D 6
+6 add E 7
+7 zero A 10 8
+8 sub A 9
+9 add E 1
+10 zero D 40 11
+11 sub D 12
+12 zero D 30 13
+13 zero B 19 14
+14 zero E 31 15
+15 sub B 16
+16 sub E 17
+17 add C 18
+18 add F 13
+19 zero E 31 20
+20 zero C 14 21
+21 zero E 26 22
+22 add B 23
+23 sub E 24
+24 sub C 25
+25 add F 19
+26 zero F 29 27
+27 sub F 28
+28 add E 26
+29 sub B 11
+30 add H 40
+31 zero B 40 32
+32 zero C 35 33
+33 sub C 34
+34 add B 32
+35 sub B 36
+36 zero F 10 37
+37 sub F 38
+38 add E 36
