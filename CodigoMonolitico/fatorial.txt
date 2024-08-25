@@ -1,0 +1,24 @@
+1 zero A 2 3
+2 add A 25
+3 zero A 7 4
+4 add B 5
+5 add C 6
+6 sub A 3
+7 zero C 10 8
+8 add A 9
+9 sub C 7
+10 sub B 11
+11 zero B 25 12
+12 zero A 15 13
+13 add C 14
+14 sub A 12
+15 zero C 24 16
+16 zero B 20 17
+17 add A 18
+18 add D 19
+19 sub B 16
+20 zero D 23 21
+21 add B 22
+22 sub D 20
+23 sub C 15
+24 sub B 11
